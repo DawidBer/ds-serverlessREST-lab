@@ -24,8 +24,17 @@
       "./node_modules/@types"
     ]
   },
+
   "exclude": [
     "node_modules",
     "cdk.out"
-  ]
+  ],
+
+  // "include": [
+  //   "C:/Users/David/OneDrive/Desktop/4TH BLISS/Distributed Systems/DistrubtedLab/rest-api-app/shared"
+  // ],
+
+  "include": [
+    "C:/Users/David/OneDrive/Desktop/4TH BLISS/Distributed Systems/DistrubtedLab/rest-api-app/shared"
+  ],
 }
